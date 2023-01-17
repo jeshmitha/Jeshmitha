@@ -15,23 +15,16 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-🎓 &nbsp;Pursuing a master's degree in Computer Science(Data Science) @ University of Cincinnati.
-
-💡 &nbsp;I love developing AI powered systems that can optimize our lives. I enjoy exploring various AWS services (gained hands-on experience with 25 services)
-
-✌️ &nbsp;Actively looking for Full-time opportunities in Data Science/Machine Learning.
-
-💻 &nbsp;I'm on track for learning more about Data Science, Machine Learning and Cloud Technologies.
-
-👀 &nbsp;Please have a look at my: [Resume](), [Portfolio]() and [LinkedIn](https://www.linkedin.com/in/jeshmitha/) for more details about me. I'm open to feedback and suggestions!
-&nbsp;
-
+🎓 &nbsp;Pursuing a master's degree in Computer Science(Data Science) @ University of Cincinnati.<br>
+💡 &nbsp;I love developing AI powered systems that can optimize our lives. I enjoy exploring various AWS services (gained hands-on experience with 25 services)<br>
+✌️ &nbsp;Actively looking for Full-time opportunities in Data Science/Machine Learning.<br>
+💻 &nbsp;I'm on track for learning more about Data Science, Machine Learning and Cloud Technologies.<br>
+👀 &nbsp;Please have a look at my: [Resume](), [Portfolio]() and [LinkedIn](https://www.linkedin.com/in/jeshmitha/) for more details about me. I'm open to feedback and suggestions!<br>
 🤝 &nbsp;If you believe I am a good fit for any position, please contact me via email at jeshmitha.gunuganti@gmail.com.
 
 <h3>🛠 Tech Stack</h3>
 
 ##### Languages:  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ##### Data Scraping, Analysis & Visualisation: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/seaborn-0AC18E?style=for-the-badge&logo=seaborn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ##### Machine Learning & Deep Learning: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
