@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Jeshmitha Gunuganti</h1>
-<h3 align="center">Machine Learning Researcher | Data Enthusiast | A Philomath</h3>
+<h3 align="center">Machine Learning Engineer | Data Science Enthusiast | A Philomath</h3>
 
 <h3>🤝🏻 Connect with Me</h3>
 
