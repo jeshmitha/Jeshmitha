@@ -16,8 +16,9 @@
 <h3>👨🏻‍💻 About Me</h3>
 
 🎓 &nbsp;Pursuing a master's degree in Computer Science(Data Science) @ University of Cincinnati.<br>
-💡 &nbsp;I love developing AI powered systems that can optimize our lives. I enjoy exploring various AWS services (gained hands-on experience with 25 services)<br>
 ✌️ &nbsp;Actively looking for Full-time opportunities in Data Science/Machine Learning.<br>
+💡 &nbsp;I love developing AI powered systems that can optimize our lives. I enjoy exploring various AWS services (gained hands-on experience with 25 services)<br>
+My current research is on 'Video Summarization', which involves developing an unsupervised deep learning model for the automatic generation of video summaries. 
 💻 &nbsp;I'm on track for learning more about Data Science, Machine Learning and Cloud Technologies.<br>
 👀 &nbsp;Please have a look at my: [Resume](), [Portfolio]() and [LinkedIn](https://www.linkedin.com/in/jeshmitha/) for more details about me. I'm open to feedback and suggestions!<br>
 🤝 &nbsp;If you believe I am a good fit for any position, please contact me via email at jeshmitha.gunuganti@gmail.com.
