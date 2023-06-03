@@ -4,7 +4,7 @@
 <h3>🤝🏻 Connect with Me</h3>
 
 <p align="center">
-<a target="_blank" href="https://jeshmitha-gunuganti-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://jeshmitha-gunuganti-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-MY%20WEBSITE-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> -->
 <a target="_blank" href="https://www.linkedin.com/in/jeshmitha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:jeshmitha.gunuganti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <!--
@@ -15,12 +15,12 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-🎓 &nbsp;Pursuing a master's degree in Computer Science(Data Science) @ University of Cincinnati.<br>
-✌️ &nbsp;Actively looking for Full-time opportunities in Data Science/Machine Learning.<br>
+🎓 &nbsp;Completed my master's degree in Computer Science(Data Science) @ University of Cincinnati.<br>
+✌️ &nbsp;Actively looking for Full-time opportunities as a Data Analyst/Data Scientist<br>
 💡 &nbsp;I love developing AI powered systems that can optimize our lives. I enjoy exploring various AWS services (gained hands-on experience with 25 services)<br>
 My current research is on 'Video Summarization', which involves developing an unsupervised deep learning model for the automatic generation of video summaries.<br>
 💻 &nbsp;I'm on track for learning more about Data Science, Machine Learning and Cloud Technologies.<br>
-👀 &nbsp;Please have a look at my: [Resume](), [Portfolio]() and [LinkedIn](https://www.linkedin.com/in/jeshmitha/) for more details about me. I'm open to feedback and suggestions!<br>
+👀 &nbsp;Please have a look at my: [LinkedIn](https://www.linkedin.com/in/jeshmitha/) for more details about me. I'm open to feedback and suggestions!<br>
 🤝 &nbsp;If you believe I am a good fit for any position, please contact me via email at jeshmitha.gunuganti@gmail.com.
 
 <h3>🛠 Tech Stack</h3>
